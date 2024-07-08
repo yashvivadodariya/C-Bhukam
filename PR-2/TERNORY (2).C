@@ -2,22 +2,6 @@
 #include<conio.h>
 
 main()
-{ in
-  clrscr();
-
-
-
-
-
-
-
-
-
-   getch();
-}     #include<stdio.h>
-#include<conio.h>
-
-main()
 { int t;
   clrscr();
 
